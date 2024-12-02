@@ -1,4 +1,4 @@
-## TR:
+### TR:
 
 Bu repo, **Miuul Data Scientist Bootcamp** kapsamında gerçekleştirilen **CRM Analitiği** eğitimine ait uygulamaları içermektedir. Eğitim sürecinde müşteri analitiği ve gelir yönetimi odaklı veri analizi çalışmaları gerçekleştirilmiştir. 
 
@@ -8,7 +8,7 @@ Bu repo, **Miuul Data Scientist Bootcamp** kapsamında gerçekleştirilen **CRM 
 
 Bu çalışmalar, işletmelerin müşteri bazlı stratejik kararlarını desteklemek ve gelirlerini optimize etmek amacıyla hazırlanmıştır. 
 
-## ENG:
+### ENG:
 
 This repo contains the applications of the **CRM Analytics** training conducted within the scope of **Miuul Data Scientist Bootcamp**. During the training, data analysis studies focused on customer analytics and revenue management were carried out. 
 
